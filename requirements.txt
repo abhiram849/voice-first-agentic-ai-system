@@ -1,0 +1,6 @@
+speechrecognition
+pyaudio
+gtts
+playsound
+langchain
+googletrans==4.0.0-rc1
